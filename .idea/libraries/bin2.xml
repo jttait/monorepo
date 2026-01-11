@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bin2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/ProjectRunner-native-header.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/libgreeter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/ProjectRunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/libgreeter-hjar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/libgreeter-native-header.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

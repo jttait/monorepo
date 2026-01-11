@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="runner2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/src/main/java/com/example/cmdline/runner.runfiles/_main/src/main/java/com/example/cmdline/runner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

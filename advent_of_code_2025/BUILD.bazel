@@ -1,0 +1,5 @@
+java_binary(
+    name = "advent_of_code_2025",
+    srcs = glob(["src/main/java/**/*.java"]),
+    main_class = "adventofcode.AdventOfCode2025",
+)

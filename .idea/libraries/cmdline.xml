@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cmdline">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/src/main/java/com/example/cmdline/runner-native-header.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/src/main/java/com/example/cmdline/runner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-java-hello-world/bazel-out/k8-fastbuild/bin/src/main/java/com/example/cmdline/runner_deploy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

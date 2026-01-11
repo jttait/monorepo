@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cmdline3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/src/main/java/com/example/cmdline/runner_deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/src/main/java/com/example/cmdline/runner-native-header.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/src/main/java/com/example/cmdline/runner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

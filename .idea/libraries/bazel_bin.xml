@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bazel-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/libgreeter-hjar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/ProjectRunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/ProjectRunner-native-header.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/libgreeter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/libgreeter-native-header.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

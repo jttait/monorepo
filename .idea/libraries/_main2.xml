@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="_main2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/ProjectRunner.runfiles/_main/libgreeter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-hello-world/bazel-bin/ProjectRunner.runfiles/_main/ProjectRunner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
